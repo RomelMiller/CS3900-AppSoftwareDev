@@ -28,8 +28,9 @@ Students are expected to demonstrate the understanding of running SpringBoot app
 
 Submit work to the Microserivces Assignment 1 GitHub repository  
 Your `README.md` file should contain: 
- * Screenshot of running application in local  
- * Screenshot of health check GET endpoint response  
+ * Microservices/Screenshot 2024-10-02 151149.png  
+ * Microservices/Screenshot 2024-10-02 150504.png  
+  
 
 ## Rubric
 
